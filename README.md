@@ -4,10 +4,22 @@
 #### 🌱 I’m currently learning advanced practicies in Frontend (React.js) application development and Microservices etc.
 #### 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
 #### ⚡ My Expertise: Embedded Systems, IoT, Product Ideas, Application Development
+<hr>
+
+## 🤝🏻  Connect with Me: 
+
+<p align="left" dir="auto">
+    <a href='https://www.linkedin.com/in/uzairmushtaq33/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Uzair_Mushtaq-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=2967B0&color=2967B0'/></a>
+    <a href='mailto:uzairmushtaq33@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/uzairmushtaq33@gmail.com-100000?style=flat&logo=gmail&logoColor=white&labelColor=F41919&color=F41919'/></a>
+<a href='https://www.instagram.com/uzairmushtaq33/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/@uzairmushtaq33-100000?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=D9225B&color=D9225B'/></a>
+<a href='engr_uzair' target="_blank"><img alt='telegram' src='https://img.shields.io/badge/engr_uzair-100000?style=flat&logo=telegram&logoColor=FFFFFF&labelColor=00AEFF&color=00AEFF'/></a>
+<a href='engr_uzair' target="_blank"><img alt='discord' src='https://img.shields.io/badge/engr_uzair-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5562EA&color=5562EA'/></a>
+</p>
+<hr>
 
 
 #### Languages & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,typescript,nodejs,express,react,html,css,materialui&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,typescript,nodejs,express,react,html,css,materialui,redux&theme=light)
 
 
 <!-- #### Languages & Frameworks:
@@ -24,7 +36,7 @@
 </div>  -->
 
 #### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb&theme=light)
 <!-- #### Database:
 <div align="left" dir="auto">
 <img alt='My SQL' src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -34,7 +46,7 @@
 </div>  -->
 
 #### Terminal:
-[![My Skills](https://skillicons.dev/icons?i=git,bash&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,bash&theme=light)
 <!-- #### Terminal:
 <div align="left" dir="auto">
 <img alt='Git' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -66,20 +78,13 @@
 </div>  
 <hr>
 
-## 🤝🏻  Connect with Me: 
-
-<p align="left" dir="auto">
-    <a href='https://www.linkedin.com/in/uzairmushtaq33/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Uzair_Mushtaq-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=2967B0&color=2967B0'/></a>
-    <a href='mailto:uzairmushtaq33@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/uzairmushtaq33@gmail.com-100000?style=flat&logo=gmail&logoColor=white&labelColor=F41919&color=F41919'/></a>
-<a href='https://www.instagram.com/uzairmushtaq33/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/@uzairmushtaq33-100000?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=D9225B&color=D9225B'/></a>
-<a href='engr_uzair' target="_blank"><img alt='telegram' src='https://img.shields.io/badge/engr_uzair-100000?style=flat&logo=telegram&logoColor=FFFFFF&labelColor=00AEFF&color=00AEFF'/></a>
-<a href='engr_uzair' target="_blank"><img alt='discord' src='https://img.shields.io/badge/engr_uzair-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5562EA&color=5562EA'/></a>
-</p>
-
 <!-- ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MUzair030&layout=compact) -->
 <!-- ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUzair030&show_icons=true&theme=radical) -->
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUzair030&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MUzair030&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MUzair030&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MUzair030&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MUzair030&theme=radical&utcOffset=8)
 
 
 
