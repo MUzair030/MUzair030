@@ -5,10 +5,12 @@
 #### 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
 #### ⚡ My Expertise: Embedded Systems, IoT, Product Ideas, Application Development
 
-<!-- ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MUzair030&layout=compact) -->
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUzair030&show_icons=true&theme=radical)
 
 #### Languages & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python,typescript,nodejs,express,react,html,css,materialui&theme=light)](https://skillicons.dev)
+
+
+<!-- #### Languages & Frameworks:
 <div align="left" dir="auto">
 <img alt='C' src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt='C++' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -19,22 +21,25 @@
 <img alt='Express.js' src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
 <img alt='React.js' src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
 <img alt='Material UI' src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-<!-- <img alt='SpringBoot' src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/> -->
-</div> 
+</div>  -->
 
 #### Database:
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb&theme=light)](https://skillicons.dev)
+<!-- #### Database:
 <div align="left" dir="auto">
 <img alt='My SQL' src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt='Postgre SQL' src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img alt='Firebase' src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
 <img alt='MongoDB' src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div> 
+</div>  -->
 
 #### Terminal:
+[![My Skills](https://skillicons.dev/icons?i=git,bash&theme=light)](https://skillicons.dev)
+<!-- #### Terminal:
 <div align="left" dir="auto">
 <img alt='Git' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt='bash' src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
-</div>  
+</div>   -->
 
 #### Embedded (Hardware & Protocols):
 <div align="left" dir="auto">
@@ -71,6 +76,9 @@
 <a href='engr_uzair' target="_blank"><img alt='discord' src='https://img.shields.io/badge/engr_uzair-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5562EA&color=5562EA'/></a>
 </p>
 
+<!-- ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MUzair030&layout=compact) -->
+<!-- ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUzair030&show_icons=true&theme=radical) -->
+
 
 
 
@@ -90,6 +98,7 @@
 
 readymade bagdes:
 https://home.aveek.io/GitHub-Profile-Badges/
+https://github.com/tandpfun/skill-icons
 
 badge maker online
 https://kapasia-dev-ed.my.site.com/Badges4Me/s/
