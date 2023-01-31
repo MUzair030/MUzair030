@@ -2,23 +2,82 @@
 ## I am an Electrical Engineer, a Full Stack Developer and a Open-source Contributor.
 #### 🔭 I’m currently working as Backend Developer using Node.js, Typescript and Express.
 #### 🌱 I’m currently learning advanced practicies in Frontend (React.js) application development and Microservices etc.
-#### ⚡ My Expertise: Embedded Systems, IoT, Product Ideas, Application Development
 #### 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
+#### ⚡ My Expertise: Embedded Systems, IoT, Product Ideas, Application Development
+
+<!-- ![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MUzair030&layout=compact) -->
+![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUzair030&show_icons=true&theme=radical)
+
+#### Languages & Frameworks:
+<div align="left" dir="auto">
+<img alt='C' src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt='C++' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt='Javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt='Python' src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt='Typescript' src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt='Node.js' src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt='Express.js' src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+<img alt='React.js' src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+<img alt='Material UI' src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+<!-- <img alt='SpringBoot' src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/> -->
+</div> 
+
+#### Database:
+<div align="left" dir="auto">
+<img alt='My SQL' src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img alt='Postgre SQL' src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+<img alt='Firebase' src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
+<img alt='MongoDB' src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div> 
+
+#### Terminal:
+<div align="left" dir="auto">
+<img alt='Git' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt='bash' src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
+</div>  
+
+#### Embedded (Hardware & Protocols):
+<div align="left" dir="auto">
+<img alt='Arduino' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<img alt='ESP' src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img alt='Raspberry Pi' src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+<img alt='Bluetooth' src="https://img.shields.io/badge/Bluetooth-0082FC.svg?style=for-the-badge&logo=Bluetooth&logoColor=white"/>
+<img alt='Zigbee' src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white"/>
+</div>  
+
+#### Tools:
+<div align="left" dir="auto">
+<img alt='Trello' src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
+<img alt='Jira' src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+</div>  
+
+
+#### OS:
+<div align="left" dir="auto"> 
+<img alt='Debian' src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+<img alt='Ubuntu' src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<img alt='Windows' src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img alt='Zorin OS' src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
+</div>  
+<hr>
+
 ## 🤝🏻  Connect with Me: 
 
 <p align="left" dir="auto">
-<a href="https://www.linkedin.com/in/uzairmushtaq33/" rel="nofollow"><img src="https://camo.githubusercontent.com/598c8d359f97004a85dc956953deb1c4ca3224732d71436bb16c841b0ca178f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5a616872612532305368616869642d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Zahra%20Shahid-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="mailto:uzairmushtaq33@gmail.com"><img src="https://camo.githubusercontent.com/17a84a85056629b2e3d94956c8191105796959d718cb9349541748dba51b1674/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7a61736861686964343540676d61696c2e636f6d2d4431343833363f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-zashahid45@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/uzairmushtaq33/" rel="nofollow"><img src="https://camo.githubusercontent.com/662cedc8f9d6d94ffc9a43262c6bb67afbd11f1443e059d634eacadcbe3fc2e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d407a6173685f34352d4534343035463f7374796c653d666c6174266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465"  style="max-width: 100%;"></a>
-<!-- <a href="https://leetcode.com/zashahid45/" rel="nofollow"><img src="https://camo.githubusercontent.com/82776eaf00c4c7a3692446452c25d3c855d76e3777ee7b653c9a79c0774a9356/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5a616872612532305368616869642d30303030303f7374796c653d666c6174266c6f676f3d4c656574636f6465266c6f676f436f6c6f723d79656c6c6f77" data-canonical-src="https://img.shields.io/badge/-Zahra%20Shahid-00000?style=flat&amp;logo=Leetcode&amp;logoColor=yellow" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/zahra.shahid.5623" rel="nofollow"><img src="https://camo.githubusercontent.com/2d64070b2b701b13f8ed340911082f4a17c299e62603b9e5b461166ef1658016/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d405a616872615368616869642d3138373746323f7374796c653d666c6174266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@ZahraShahid-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a> -->
+    <a href='https://www.linkedin.com/in/uzairmushtaq33/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Uzair_Mushtaq-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=2967B0&color=2967B0'/></a>
+    <a href='mailto:uzairmushtaq33@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/uzairmushtaq33@gmail.com-100000?style=flat&logo=gmail&logoColor=white&labelColor=F41919&color=F41919'/></a>
+<a href='https://www.instagram.com/uzairmushtaq33/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/@uzairmushtaq33-100000?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=D9225B&color=D9225B'/></a>
+<a href='engr_uzair' target="_blank"><img alt='telegram' src='https://img.shields.io/badge/engr_uzair-100000?style=flat&logo=telegram&logoColor=FFFFFF&labelColor=00AEFF&color=00AEFF'/></a>
+<a href='engr_uzair' target="_blank"><img alt='discord' src='https://img.shields.io/badge/engr_uzair-100000?style=flat&logo=discord&logoColor=FFFFFF&labelColor=5562EA&color=5562EA'/></a>
 </p>
+
+
 
 
 
 <!--
 **MUzair030/MUzair030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-    
+   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,6 +87,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+readymade bagdes:
+https://home.aveek.io/GitHub-Profile-Badges/
+
+badge maker online
+https://kapasia-dev-ed.my.site.com/Badges4Me/s/
+https://michaelcurrin.github.io/badge-generator/#/generic
 -->
 
 
