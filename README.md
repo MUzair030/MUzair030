@@ -1,6 +1,6 @@
 ## Hey there, I'm Uzair Mushtaq 👋
 <br />
-### I am an Electrical Engineer, a Full Stack Developer and a Open-source Contributor.
+## I am an Electrical Engineer, a Full Stack Developer and a Open-source Contributor.
 <br />
 🔭 I’m currently working as Backend Developer using Node.js, Typescript and Express.
 <br />
@@ -10,7 +10,7 @@
 <br />
 👯 I’m improving my problem solving skills on HackerRank and LeetCode.
 <br />
-### 🤝🏻  Connect with Me: 
+## 🤝🏻  Connect with Me: 
 <p align="left" dir="auto">
 
     <a href="https://www.linkedin.com/in/uzairmushtaq33/" rel="nofollow"><img src="https://camo.githubusercontent.com/598c8d359f97004a85dc956953deb1c4ca3224732d71436bb16c841b0ca178f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5a616872612532305368616869642d3030373742353f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Zahra%20Shahid-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -19,10 +19,10 @@
 
     <a href="https://www.instagram.com/uzairmushtaq33/" rel="nofollow"><img src="https://camo.githubusercontent.com/662cedc8f9d6d94ffc9a43262c6bb67afbd11f1443e059d634eacadcbe3fc2e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d407a6173685f34352d4534343035463f7374796c653d666c6174266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@zash_45-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<!--     <a href="https://leetcode.com/zashahid45/" rel="nofollow"><img src="https://camo.githubusercontent.com/82776eaf00c4c7a3692446452c25d3c855d76e3777ee7b653c9a79c0774a9356/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5a616872612532305368616869642d30303030303f7374796c653d666c6174266c6f676f3d4c656574636f6465266c6f676f436f6c6f723d79656c6c6f77" data-canonical-src="https://img.shields.io/badge/-Zahra%20Shahid-00000?style=flat&amp;logo=Leetcode&amp;logoColor=yellow" style="max-width: 100%;"></a> -->
+    <a href="https://leetcode.com/zashahid45/" rel="nofollow"><img src="https://camo.githubusercontent.com/82776eaf00c4c7a3692446452c25d3c855d76e3777ee7b653c9a79c0774a9356/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5a616872612532305368616869642d30303030303f7374796c653d666c6174266c6f676f3d4c656574636f6465266c6f676f436f6c6f723d79656c6c6f77" data-canonical-src="https://img.shields.io/badge/-Zahra%20Shahid-00000?style=flat&amp;logo=Leetcode&amp;logoColor=yellow" style="max-width: 100%;"></a>
 
-<!--     <a href="https://www.facebook.com/zahra.shahid.5623" rel="nofollow"><img src="https://camo.githubusercontent.com/2d64070b2b701b13f8ed340911082f4a17c299e62603b9e5b461166ef1658016/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d405a616872615368616869642d3138373746323f7374796c653d666c6174266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@ZahraShahid-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
- -->
+    <a href="https://www.facebook.com/zahra.shahid.5623" rel="nofollow"><img src="https://camo.githubusercontent.com/2d64070b2b701b13f8ed340911082f4a17c299e62603b9e5b461166ef1658016/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d405a616872615368616869642d3138373746323f7374796c653d666c6174266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-@ZahraShahid-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white" style="max-width: 100%;"></a>
+
 </p>
 
 
