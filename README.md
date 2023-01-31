@@ -53,11 +53,22 @@
 <img alt='bash' src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 </div>   -->
 
-#### Embedded (Hardware & Protocols):
+#### Hardware:
 <div align="left" dir="auto">
 <img alt='Arduino' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img alt='ESP' src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img alt='Raspberry Pi' src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+<img alt='STM32' src="https://raw.githubusercontent.com/MUzair030/MUzair030/main/stm32_small.jpg"/>
+<img alt='nordic semi' src="https://raw.githubusercontent.com/MUzair030/MUzair030/main/nordic%20semi_small.png"/>
+<img alt='particle' src="https://raw.githubusercontent.com/MUzair030/MUzair030/main/particle_small.png"/>
+<img alt='MangOH' src="https://raw.githubusercontent.com/MUzair030/MUzair030/main/mangoh_small.png"/>
+</div>  
+
+#### Embedded Software:
+<div align="left" dir="auto">
+<img alt='FreeRTOS' src="https://raw.githubusercontent.com/MUzair030/MUzair030/main/freeRTOS.png"/>
+<img alt='nrf SDK' src="https://raw.githubusercontent.com/MUzair030/MUzair030/main/nrf_sdk.png"/>
+<img alt='Zephyr OS' src="https://raw.githubusercontent.com/MUzair030/MUzair030/main/zephyr_os.png"/>
 <img alt='Bluetooth' src="https://img.shields.io/badge/Bluetooth-0082FC.svg?style=for-the-badge&logo=Bluetooth&logoColor=white"/>
 <img alt='Zigbee' src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white"/>
 </div>  
