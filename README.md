@@ -130,30 +130,10 @@ https://michaelcurrin.github.io/badge-generator/#/generic
 
 <!-- <div style="  display: flex; flex-wrap: wrap;">
     
-<!--   OnEdge   -->
-<div>
-        <a href='https://simple-chat-room-muzair030.netlify.app/' target="_blank">
-            <img src="https://screenshot-proxy.netlify.app/f_jpg,w_204/https://d33wubrfki0l68.cloudfront.net/63dcc555b3a5412cd6843f32/screenshot_2023-02-03-08-27-08-0000.png">
-    </a>
-    <p> OnEdge | HR Management </p>
-</div>
-
-<!--   Store Sales Dashboard   -->
-<div>        
-    <a href='https://store-sales-dashboard.netlify.app/' target="_blank">
-        <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d098a3f934d04161d06/screenshot_2023-05-19-06-54-19-0000.png">
-    </a>
-    <p>  Store Sales Dashboard </p>
-</div>
 
 
-<!--   Matrimony Shadi / Match-Making   -->
-<div>                    
-    <a href='https://matrimony-shadi-com.netlify.app/' target="_blank">
-            <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d7aa4a9e14bd7f8445f/screenshot_2023-05-19-06-56-14-0000.png">
-    </a>
-    <p> Matrimony / Shadi / Match-Making </p>
-</div>
+
+
 
  <!--   Youtube Clone 2023   -->
 <div>                    
@@ -181,9 +161,39 @@ https://michaelcurrin.github.io/badge-generator/#/generic
  
  <table>
   <tr>
-    <td>Emil</td>
-    <td>Tobias</td>
-    <td>Linus</td>
+      
+    <td>
+    <!--   OnEdge   -->
+            <div>
+            <a href='https://simple-chat-room-muzair030.netlify.app/' target="_blank">
+                <img src="https://screenshot-proxy.netlify.app/f_jpg,w_204/https://d33wubrfki0l68.cloudfront.net/63dcc555b3a5412cd6843f32/screenshot_2023-02-03-08-27-08-0000.png">
+        </a>
+        <p> OnEdge | HR Management </p>
+    </div>  
+    </td>
+      
+      
+      
+    <td>
+    <!--   Store Sales Dashboard   -->
+        <div>        
+            <a href='https://store-sales-dashboard.netlify.app/' target="_blank">
+                <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d098a3f934d04161d06/screenshot_2023-05-19-06-54-19-0000.png">
+            </a>
+            <p>  Store Sales Dashboard </p>
+        </div>
+    </td>
+    
+
+  <td>
+          <!--   Matrimony Shadi / Match-Making   -->
+    <div>                    
+        <a href='https://matrimony-shadi-com.netlify.app/' target="_blank">
+                <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d7aa4a9e14bd7f8445f/screenshot_2023-05-19-06-56-14-0000.png">
+        </a>
+        <p> Matrimony / Shadi / Match-Making </p>
+    </div>
+  </td>
   </tr>
 </table>
 
