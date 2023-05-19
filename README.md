@@ -125,7 +125,10 @@ https://michaelcurrin.github.io/badge-generator/#/generic
 </div>
 
 
-<div style="display: flex; flex-wrap: wrap">
+
+
+
+<!-- <div style="  display: flex; flex-wrap: wrap;">
     
 <!--   OnEdge   -->
 <div>
@@ -172,7 +175,17 @@ https://michaelcurrin.github.io/badge-generator/#/generic
 
 </div>
     
-
+ -->
+ 
+ 
+ 
+ <table>
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+</table>
 
     
 
