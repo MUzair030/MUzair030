@@ -124,15 +124,9 @@ https://michaelcurrin.github.io/badge-generator/#/generic
     <h3>Portfolio</h3>
 </div>
 
-<!--   Simple Chat Room   -->
-<div>
-    <a href='https://simple-chat-room-muzair030.netlify.app/' target="_blank">
-            <img src="https://screenshot-proxy.netlify.app/f_jpg,w_204/https://d33wubrfki0l68.cloudfront.net/63dcc555b3a5412cd6843f32/screenshot_2023-02-03-08-27-08-0000.png">
-    </a>
-    <p>Simple Chat Room</p>
-</div>
 
-
+<div style="display: flex; flex-wrap: wrap">
+    
 <!--   OnEdge   -->
 <div>
         <a href='https://simple-chat-room-muzair030.netlify.app/' target="_blank">
@@ -146,7 +140,7 @@ https://michaelcurrin.github.io/badge-generator/#/generic
     <a href='https://store-sales-dashboard.netlify.app/' target="_blank">
         <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d098a3f934d04161d06/screenshot_2023-05-19-06-54-19-0000.png">
     </a>
-    <p> OnEdge | HR Management </p>
+    <p>  Store Sales Dashboard </p>
 </div>
 
 
@@ -155,7 +149,7 @@ https://michaelcurrin.github.io/badge-generator/#/generic
     <a href='https://matrimony-shadi-com.netlify.app/' target="_blank">
             <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d7aa4a9e14bd7f8445f/screenshot_2023-05-19-06-56-14-0000.png">
     </a>
-    <p> OnEdge | HR Management </p>
+    <p> Matrimony / Shadi / Match-Making </p>
 </div>
 
  <!--   Youtube Clone 2023   -->
@@ -163,12 +157,20 @@ https://michaelcurrin.github.io/badge-generator/#/generic
     <a href='https://youtube-clone-2023-uzair030.netlify.app/' target="_blank">
             <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63dcc77e4c9ea032c86fb133/screenshot_2023-02-03-08-36-19-0000.png">
     </a>
-    <p> OnEdge | HR Management </p>
+    <p> Youtube Clone 2023 </p>
+</div>
+
+<!--   Simple Chat Room   -->
+<div>
+    <a href='https://simple-chat-room-muzair030.netlify.app/' target="_blank">
+            <img src="https://screenshot-proxy.netlify.app/f_jpg,w_204/https://d33wubrfki0l68.cloudfront.net/63dcc555b3a5412cd6843f32/screenshot_2023-02-03-08-27-08-0000.png">
+    </a>
+    <p>Simple Chat Room</p>
 </div>
 
 
 
-
+</div>
     
 
 
