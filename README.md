@@ -126,64 +126,13 @@ https://michaelcurrin.github.io/badge-generator/#/generic
 
 
 
- <table>
+
+
+<table>
   <tr>
-      
-    <td>
-    <!--   OnEdge   -->
-            <a href='https://simple-chat-room-muzair030.netlify.app/' target="_blank">
-                <img src="https://screenshot-proxy.netlify.app/f_jpg,w_204/https://d33wubrfki0l68.cloudfront.net/63dcc555b3a5412cd6843f32/screenshot_2023-02-03-08-27-08-0000.png">
-        </a>
-        <p> OnEdge | HR Management </p>
-
-    </td>
-      
-      
-      
-    <td>
-    <!--   Store Sales Dashboard   -->
-            <a href='https://store-sales-dashboard.netlify.app/' target="_blank">
-                <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d098a3f934d04161d06/screenshot_2023-05-19-06-54-19-0000.png">
-            </a>
-            <p>  Store Sales Dashboard </p>
-     </td>
-      
+    <td align="center"><a href="https://wooeats.netlify.app"><img src="https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/64fcacc8130f94081af25cf2/screenshot_2023-09-09-17-35-05-0000.png" width="100px;" alt=""/><br /><sub><b>Woo Eats</b></sub></a></td>
+    <td align="center"><a href="https://store-sales-dashboard.netlify.app/"><img src="https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/64fd7592ece35578bbc20338/screenshot_2023-09-10-07-52-00-0000.png" width="100px;" alt=""/><br /><sub><b>Kartik Choudhary</b></sub></a></td>
+    <td align="center"><a href="https://github.com/naveen521kk"><img src="https://avatars1.githubusercontent.com/u/49693820?v=4" width="100px;" alt=""/><br /><sub><b>Naveen M K</b></sub></a></td>
+    <td align="center"><a href="http://www.muhammadhasham.com"><img src="https://avatars0.githubusercontent.com/u/17927649?v=4" width="100px;" alt=""/><br /><sub><b>Muhammad Hasham</b></sub></a></td>
   </tr>
-
-<tr>
-  <td>
-          <!--   Matrimony Shadi / Match-Making   -->
-        <a href='https://matrimony-shadi-com.netlify.app/' target="_blank">
-                <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/64671d7aa4a9e14bd7f8445f/screenshot_2023-05-19-06-56-14-0000.png">
-        </a>
-        <p> Matrimony / Shadi / Match-Making </p>
-  </td>
-      
-      
-      
-        <td>
-           <!--   Youtube Clone 2023   -->
-    <a href='https://youtube-clone-2023-uzair030.netlify.app/' target="_blank">
-            <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63dcc77e4c9ea032c86fb133/screenshot_2023-02-03-08-36-19-0000.png">
-    </a>
-    <p> Youtube Clone 2023 </p>
-  </td>
-      
-</tr>
-
-
-<tr>
-    <td>
-         <!--   Simple Chat Room   -->
-    <a href='https://simple-chat-room-muzair030.netlify.app/' target="_blank">
-            <img src="https://screenshot-proxy.netlify.app/f_jpg,w_336/https://d33wubrfki0l68.cloudfront.net/63dcfb2547753b1348df4b9e/screenshot_2023-02-03-12-16-45-0000.png">
-    </a>
-    <p>Simple Chat Room</p>
-  </td>
-</tr>
-
-
 </table>
-
-
-
