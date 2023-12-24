@@ -127,6 +127,13 @@ https://michaelcurrin.github.io/badge-generator/#/generic
 
 
 
+<table>
+  <tr>
+    <td align="center"><a href="https://uat.edgeonline.co/"  target="_blank"><img src="https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_336x210/https://d33wubrfki0l68.cloudfront.net/64fcacc8130f94081af25cf2/screenshot_2023-09-09-17-35-05-0000.png" width="250px;" alt=""/><br /><sub><b>Edge (HR Hiring & Management Portal)</b></sub></a></td>
+    <td align="center"><a href="https://uat.edgeonline.co/admin"  target="_blank"><img src="https://media.licdn.com/dms/image/D4D2DAQHR17C3ktHwTQ/profile-treasury-image-shrink_800_800/0/1680238998417?e=1704006000&amp;v=beta&amp;t=9szVIFv7P_NcaLC2AmhgPIn9p48atS5hCemnqntI3Ic" width="250px;" alt=""/><br /><sub><b>Admin Portal - Edge Online</b></sub></a></td>
+    <td align="center"><a href='https://wms-ui-dot-the-fa-api-dev.nw.r.appspot.com/' target="_blank"><img src="https://media.licdn.com/dms/image/D4D2DAQHLtDW2jIMK-w/profile-treasury-image-shrink_160_160/0/1703223242193?e=1704006000&amp;v=beta&amp;t=EGbngxBTd6CNzeIqmglzLD_QCBgVQ93P0fa0baR4_kk" width="250px;" alt="Warehouse Management System (The FA)"/><br /><sub><b>Warehouse Management System (The FA)</b></sub></a></td>
+  </tr>
+</table>
 
 <table>
   <tr>
